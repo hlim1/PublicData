@@ -60,9 +60,16 @@
       "haystack-radius": "0.5",
       "opacity": "0.4",
       "line-color": "#bbb",
-      "width": "mapData(opt, 0, 2, 1, 5)",
+      "width": "mapData(opt, 0, 2, 1, 2)",
       "overlay-padding": "3px"
     }
+  },
+  {
+      "selector": "edge:selected",
+      "style": {
+          "opacity": "1",
+          "width": "5px"
+      }
   },
   {
     "selector": "node.unhighlighted",
