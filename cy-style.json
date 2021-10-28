@@ -89,11 +89,11 @@
 }, {
   "selector": "edge[opt=1]",
   "style": {
-    "line-color": "#d0b7d5"
+    "line-color": "#228B22"
   }
 }, {
   "selector": "edge[opt=0.5]",
   "style": {
-    "line-color": "#a0b3dc"
+    "line-color": "#8B0000"
   }
 }]
