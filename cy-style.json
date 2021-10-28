@@ -17,7 +17,7 @@
     "background-color": "#555",
     "text-outline-color": "#555",
     "text-outline-width": "2px",
-    "color": "#000080",
+    "color": "#fff",
     "overlay-padding": "6px",
     "z-index": "10"
   }
@@ -54,7 +54,7 @@
     "haystack-radius": "0.5",
     "opacity": "0.4",
     "line-color": "#bbb",
-    "width": "mapData(opt, 0, 1, 1, 8)",
+    "width": "mapData(opt, 0, 2, 1, 5)",
     "overlay-padding": "3px"
   }
 }, {
@@ -87,11 +87,16 @@
     "opacity": "0"
   }
 }, {
-  "selector": "edge[opt=1]",
+  "selector": "edge[opt=2]",
   "style": {
     "line-color": "#228B22"
   }
 }, {
+  "selector": "edge[opt=1]",
+  "style": {
+    "line-color": "#8B008B"
+  },
+  {
   "selector": "edge[opt=0.5]",
   "style": {
     "line-color": "#8B0000"
