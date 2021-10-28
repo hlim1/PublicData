@@ -54,7 +54,7 @@
     "haystack-radius": "0.5",
     "opacity": "0.4",
     "line-color": "#bbb",
-    "width": "mapData(opt, 0, 1, 1, 10)",
+    "width": "mapData(opt, 0, 1, 1, 8)",
     "overlay-padding": "3px"
   }
 }, {
@@ -87,12 +87,12 @@
     "opacity": "0"
   }
 }, {
-  "selector": "edge[opt=\"1\"]",
+  "selector": "edge[opt=1]",
   "style": {
     "line-color": "#d0b7d5"
   }
 }, {
-  "selector": "edge[opt=\"0.5\"]",
+  "selector": "edge[opt=0.5]",
   "style": {
     "line-color": "#a0b3dc"
   }
