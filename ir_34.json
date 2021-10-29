@@ -1,0 +1,5882 @@
+[
+    {
+        "data": {
+            "id": "e300",
+            "source": "264",
+            "target": "0",
+            "opt": 0.5
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e1",
+            "source": "10",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e2",
+            "source": "13",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e3",
+            "source": "13",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e5",
+            "source": "13",
+            "target": "132",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e5",
+            "source": "18",
+            "target": "17",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e7",
+            "source": "19",
+            "target": "219",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e7",
+            "source": "20",
+            "target": "17",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e8",
+            "source": "23",
+            "target": "22",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e9",
+            "source": "25",
+            "target": "22",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e10",
+            "source": "28",
+            "target": "27",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e240",
+            "source": "234",
+            "target": "23",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e15",
+            "source": "32",
+            "target": "238",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e15",
+            "source": "32",
+            "target": "199",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e240",
+            "source": "234",
+            "target": "151",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e16",
+            "source": "33",
+            "target": "81",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e16",
+            "source": "35",
+            "target": "22",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e17",
+            "source": "43",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e18",
+            "source": "43",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e19",
+            "source": "43",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e20",
+            "source": "52",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e21",
+            "source": "66",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e22",
+            "source": "66",
+            "target": "12",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e24",
+            "source": "66",
+            "target": "202",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e28",
+            "source": "68",
+            "target": "55",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e28",
+            "source": "68",
+            "target": "58",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e28",
+            "source": "68",
+            "target": "95",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e27",
+            "source": "68",
+            "target": "58",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e28",
+            "source": "69",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e29",
+            "source": "69",
+            "target": "68",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e30",
+            "source": "69",
+            "target": "65",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e31",
+            "source": "69",
+            "target": "4",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e32",
+            "source": "69",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "70",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e34",
+            "source": "70",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e35",
+            "source": "71",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e36",
+            "source": "71",
+            "target": "69",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e37",
+            "source": "71",
+            "target": "70",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e38",
+            "source": "72",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e39",
+            "source": "72",
+            "target": "71",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e40",
+            "source": "72",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e41",
+            "source": "73",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e42",
+            "source": "73",
+            "target": "72",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e43",
+            "source": "74",
+            "target": "72",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e44",
+            "source": "75",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e45",
+            "source": "75",
+            "target": "73",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e46",
+            "source": "75",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e47",
+            "source": "76",
+            "target": "69",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e48",
+            "source": "76",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e49",
+            "source": "76",
+            "target": "75",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e50",
+            "source": "81",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e51",
+            "source": "82",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e52",
+            "source": "83",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e53",
+            "source": "83",
+            "target": "75",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e54",
+            "source": "84",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e55",
+            "source": "84",
+            "target": "83",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e56",
+            "source": "85",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e57",
+            "source": "88",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e58",
+            "source": "89",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e59",
+            "source": "90",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e60",
+            "source": "94",
+            "target": "92",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e62",
+            "source": "95",
+            "target": "135",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e62",
+            "source": "101",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e63",
+            "source": "113",
+            "target": "13",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e64",
+            "source": "113",
+            "target": "13",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e65",
+            "source": "113",
+            "target": "7",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e66",
+            "source": "113",
+            "target": "47",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e67",
+            "source": "114",
+            "target": "7",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e68",
+            "source": "114",
+            "target": "7",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e69",
+            "source": "114",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e70",
+            "source": "115",
+            "target": "8",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e71",
+            "source": "115",
+            "target": "8",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e72",
+            "source": "116",
+            "target": "67",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e73",
+            "source": "116",
+            "target": "67",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e74",
+            "source": "123",
+            "target": "6",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e75",
+            "source": "124",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e76",
+            "source": "125",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e77",
+            "source": "128",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e78",
+            "source": "130",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e80",
+            "source": "130",
+            "target": "162",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e80",
+            "source": "131",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e81",
+            "source": "131",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e214",
+            "source": "225",
+            "target": "130",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e83",
+            "source": "132",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e84",
+            "source": "133",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e85",
+            "source": "133",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e86",
+            "source": "133",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e87",
+            "source": "134",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e88",
+            "source": "134",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e89",
+            "source": "134",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e90",
+            "source": "135",
+            "target": "131",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e91",
+            "source": "135",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e92",
+            "source": "137",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e93",
+            "source": "138",
+            "target": "123",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e94",
+            "source": "140",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e95",
+            "source": "141",
+            "target": "19",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e96",
+            "source": "141",
+            "target": "139",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e97",
+            "source": "141",
+            "target": "133",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e98",
+            "source": "143",
+            "target": "137",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e99",
+            "source": "143",
+            "target": "133",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e100",
+            "source": "143",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e101",
+            "source": "145",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e102",
+            "source": "145",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e103",
+            "source": "146",
+            "target": "145",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e104",
+            "source": "147",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e105",
+            "source": "151",
+            "target": "145",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e106",
+            "source": "153",
+            "target": "133",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e107",
+            "source": "155",
+            "target": "138",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e108",
+            "source": "155",
+            "target": "153",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e109",
+            "source": "155",
+            "target": "4",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e110",
+            "source": "155",
+            "target": "5",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e111",
+            "source": "155",
+            "target": "6",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e112",
+            "source": "155",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e113",
+            "source": "168",
+            "target": "164",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e114",
+            "source": "183",
+            "target": "143",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e115",
+            "source": "183",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e116",
+            "source": "184",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e117",
+            "source": "188",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e118",
+            "source": "189",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e119",
+            "source": "189",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e120",
+            "source": "189",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e121",
+            "source": "190",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e122",
+            "source": "190",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e123",
+            "source": "191",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e124",
+            "source": "191",
+            "target": "138",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e125",
+            "source": "191",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e126",
+            "source": "191",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e127",
+            "source": "191",
+            "target": "122",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e128",
+            "source": "191",
+            "target": "174",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e129",
+            "source": "191",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e130",
+            "source": "191",
+            "target": "82",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e131",
+            "source": "192",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e132",
+            "source": "192",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e133",
+            "source": "193",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e134",
+            "source": "194",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e135",
+            "source": "194",
+            "target": "138",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e136",
+            "source": "194",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e137",
+            "source": "194",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e138",
+            "source": "194",
+            "target": "122",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e139",
+            "source": "194",
+            "target": "174",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e140",
+            "source": "194",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e141",
+            "source": "195",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e142",
+            "source": "195",
+            "target": "175",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e143",
+            "source": "195",
+            "target": "185",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e144",
+            "source": "195",
+            "target": "158",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e145",
+            "source": "195",
+            "target": "120",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e146",
+            "source": "195",
+            "target": "5",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e147",
+            "source": "195",
+            "target": "188",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e148",
+            "source": "195",
+            "target": "194",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e149",
+            "source": "195",
+            "target": "188",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e150",
+            "source": "195",
+            "target": "9",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e151",
+            "source": "196",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e152",
+            "source": "196",
+            "target": "138",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e153",
+            "source": "196",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e154",
+            "source": "196",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e155",
+            "source": "196",
+            "target": "122",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e156",
+            "source": "196",
+            "target": "174",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e157",
+            "source": "196",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e158",
+            "source": "197",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e159",
+            "source": "197",
+            "target": "124",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e160",
+            "source": "198",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e161",
+            "source": "199",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e162",
+            "source": "199",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e163",
+            "source": "200",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e164",
+            "source": "200",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e165",
+            "source": "201",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e166",
+            "source": "201",
+            "target": "189",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e167",
+            "source": "201",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e168",
+            "source": "202",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e169",
+            "source": "202",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e170",
+            "source": "202",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e171",
+            "source": "203",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e172",
+            "source": "203",
+            "target": "138",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e173",
+            "source": "203",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e174",
+            "source": "203",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e175",
+            "source": "203",
+            "target": "122",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e176",
+            "source": "203",
+            "target": "174",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e177",
+            "source": "203",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e178",
+            "source": "204",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e179",
+            "source": "204",
+            "target": "124",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e180",
+            "source": "204",
+            "target": "125",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e181",
+            "source": "208",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e182",
+            "source": "208",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e183",
+            "source": "208",
+            "target": "134",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e184",
+            "source": "208",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e185",
+            "source": "208",
+            "target": "23",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e186",
+            "source": "209",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e187",
+            "source": "209",
+            "target": "125",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e188",
+            "source": "209",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e189",
+            "source": "209",
+            "target": "200",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e190",
+            "source": "213",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e191",
+            "source": "213",
+            "target": "205",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e192",
+            "source": "220",
+            "target": "124",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e193",
+            "source": "221",
+            "target": "124",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e194",
+            "source": "222",
+            "target": "133",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "223",
+            "target": "176",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "223",
+            "target": "152",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "223",
+            "target": "90",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e198",
+            "source": "223",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e199",
+            "source": "223",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "223",
+            "target": "208",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "223",
+            "target": "213",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "223",
+            "target": "226",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e203",
+            "source": "224",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e204",
+            "source": "224",
+            "target": "223",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e205",
+            "source": "224",
+            "target": "211",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e206",
+            "source": "224",
+            "target": "4",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e207",
+            "source": "224",
+            "target": "199",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e208",
+            "source": "225",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e209",
+            "source": "225",
+            "target": "151",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e214",
+            "source": "225",
+            "target": "210",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e211",
+            "source": "225",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e214",
+            "source": "225",
+            "target": "171",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e213",
+            "source": "225",
+            "target": "130",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e214",
+            "source": "226",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e215",
+            "source": "226",
+            "target": "224",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e216",
+            "source": "226",
+            "target": "225",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e217",
+            "source": "227",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e218",
+            "source": "227",
+            "target": "226",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e219",
+            "source": "227",
+            "target": "199",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e220",
+            "source": "228",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e221",
+            "source": "228",
+            "target": "227",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e222",
+            "source": "229",
+            "target": "227",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e223",
+            "source": "230",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e224",
+            "source": "230",
+            "target": "228",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e225",
+            "source": "230",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e226",
+            "source": "231",
+            "target": "224",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e227",
+            "source": "231",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e240",
+            "source": "234",
+            "target": "230",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e229",
+            "source": "233",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e230",
+            "source": "233",
+            "target": "223",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e231",
+            "source": "233",
+            "target": "211",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e232",
+            "source": "233",
+            "target": "4",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e233",
+            "source": "233",
+            "target": "151",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e234",
+            "source": "234",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e235",
+            "source": "234",
+            "target": "151",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e240",
+            "source": "234",
+            "target": "256",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e237",
+            "source": "234",
+            "target": "23",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e238",
+            "source": "234",
+            "target": "230",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e240",
+            "source": "234",
+            "target": "239",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e240",
+            "source": "235",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e241",
+            "source": "235",
+            "target": "233",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e242",
+            "source": "235",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e243",
+            "source": "236",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e244",
+            "source": "236",
+            "target": "235",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e245",
+            "source": "236",
+            "target": "151",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e246",
+            "source": "237",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e247",
+            "source": "237",
+            "target": "236",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e248",
+            "source": "238",
+            "target": "236",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e249",
+            "source": "239",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e250",
+            "source": "239",
+            "target": "237",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e251",
+            "source": "239",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e252",
+            "source": "240",
+            "target": "233",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e253",
+            "source": "240",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e254",
+            "source": "240",
+            "target": "239",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e255",
+            "source": "244",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e256",
+            "source": "244",
+            "target": "124",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e257",
+            "source": "244",
+            "target": "243",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e258",
+            "source": "245",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e259",
+            "source": "245",
+            "target": "244",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e260",
+            "source": "245",
+            "target": "211",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e261",
+            "source": "246",
+            "target": "245",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e262",
+            "source": "246",
+            "target": "203",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e263",
+            "source": "246",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e264",
+            "source": "246",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e265",
+            "source": "248",
+            "target": "124",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e266",
+            "source": "248",
+            "target": "247",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e267",
+            "source": "249",
+            "target": "248",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e268",
+            "source": "250",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e269",
+            "source": "250",
+            "target": "249",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e270",
+            "source": "250",
+            "target": "215",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e271",
+            "source": "250",
+            "target": "195",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e272",
+            "source": "251",
+            "target": "190",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e273",
+            "source": "251",
+            "target": "250",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e274",
+            "source": "251",
+            "target": "195",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e275",
+            "source": "252",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e276",
+            "source": "252",
+            "target": "251",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e277",
+            "source": "252",
+            "target": "191",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e278",
+            "source": "252",
+            "target": "195",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e279",
+            "source": "252",
+            "target": "195",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e280",
+            "source": "253",
+            "target": "190",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e281",
+            "source": "253",
+            "target": "250",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e282",
+            "source": "253",
+            "target": "252",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e283",
+            "source": "254",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e284",
+            "source": "254",
+            "target": "133",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e285",
+            "source": "254",
+            "target": "215",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e286",
+            "source": "254",
+            "target": "162",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e287",
+            "source": "255",
+            "target": "168",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e288",
+            "source": "255",
+            "target": "254",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e289",
+            "source": "255",
+            "target": "162",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e290",
+            "source": "256",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e291",
+            "source": "256",
+            "target": "255",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e292",
+            "source": "256",
+            "target": "166",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e293",
+            "source": "256",
+            "target": "162",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e294",
+            "source": "256",
+            "target": "162",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e295",
+            "source": "257",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e296",
+            "source": "257",
+            "target": "254",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e297",
+            "source": "257",
+            "target": "256",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e298",
+            "source": "263",
+            "target": "176",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e299",
+            "source": "263",
+            "target": "176",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "0",
+            "opcode": "0x0",
+            "address": "0x560c006adbc0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "1",
+            "opcode": "0x32",
+            "address": "0x560c006adc50",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "2",
+            "opcode": "0x32",
+            "address": "0x560c006adca8",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "3",
+            "opcode": "0x1e",
+            "address": "0x560c006ade88",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "4",
+            "opcode": "0x32",
+            "address": "0x560c006adf10",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "5",
+            "opcode": "0x3d",
+            "address": "0x560c006adf80",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "6",
+            "opcode": "0x25",
+            "address": "0x560c006adff0",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "7",
+            "opcode": "0x29",
+            "address": "0x560c006ae060",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "8",
+            "opcode": "0x29",
+            "address": "0x560c006ae110",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "9",
+            "opcode": "0x1e",
+            "address": "0x560c006ae200",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "10",
+            "opcode": "0x32",
+            "address": "0x560c006ae2d8",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "11",
+            "opcode": "0x28",
+            "address": "0x560c006ae398",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "12",
+            "opcode": "0x2b5",
+            "address": "0x560c006ae450",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "13",
+            "opcode": "0x28",
+            "address": "0x560c006ae578",
+            "score": 0.03,
+            "connected": 3,
+            "appended": 1,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "14",
+            "opcode": "0x28b",
+            "address": "0x560c006ae688",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "15",
+            "opcode": "0x28",
+            "address": "0x560c006ae7b0",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "16",
+            "opcode": "0x25",
+            "address": "0x560c006ae850",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "17",
+            "opcode": "0x29",
+            "address": "0x560c006ae9e0",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "18",
+            "opcode": "0x28",
+            "address": "0x560c006aeaf8",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "19",
+            "opcode": "0x28a",
+            "address": "0x560c006aec20",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 1,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "20",
+            "opcode": "0x28",
+            "address": "0x560c006aed50",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "21",
+            "opcode": "0x25",
+            "address": "0x560c006aedf0",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "22",
+            "opcode": "0x29",
+            "address": "0x560c006aee98",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "23",
+            "opcode": "0x28",
+            "address": "0x560c006aefb8",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "24",
+            "opcode": "0x28b",
+            "address": "0x560c006af0c8",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "25",
+            "opcode": "0x28",
+            "address": "0x560c006af1f0",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "26",
+            "opcode": "0x25",
+            "address": "0x560c006af290",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "27",
+            "opcode": "0x29",
+            "address": "0x560c006af350",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "28",
+            "opcode": "0x28",
+            "address": "0x560c006af478",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "29",
+            "opcode": "0x28a",
+            "address": "0x560c006af5a0",
+            "score": 0.016666666666666666,
+            "connected": 0,
+            "appended": 0,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "30",
+            "opcode": "0x28",
+            "address": "0x560c006af6d0",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "31",
+            "opcode": "0x25",
+            "address": "0x560c006bec30",
+            "score": 0.016666666666666666,
+            "connected": 1,
+            "appended": 1,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "32",
+            "opcode": "0x29",
+            "address": "0x560c006bed08",
+            "score": 0.03333333333333333,
+            "connected": 3,
+            "appended": 3,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "33",
+            "opcode": "0x28",
+            "address": "0x560c006bf038",
+            "score": 0.03,
+            "connected": 1,
+            "appended": 1,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "34",
+            "opcode": "0x2a0",
+            "address": "0x560c006bf188",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "35",
+            "opcode": "0x28",
+            "address": "0x560c006bf2c8",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "36",
+            "opcode": "0x1c",
+            "address": "0x560c006bf4b0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "37",
+            "opcode": "0x25",
+            "address": "0x560c006bf520",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "38",
+            "opcode": "0x29",
+            "address": "0x560c006bf5f8",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "39",
+            "opcode": "0x28",
+            "address": "0x560c006bf728",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "40",
+            "opcode": "0x2a0",
+            "address": "0x560c006bf890",
+            "score": 0.02666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 8
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "41",
+            "opcode": "0x28",
+            "address": "0x560c006bf9d8",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "42",
+            "opcode": "0x1c",
+            "address": "0x560c006bfa70",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "43",
+            "opcode": "0x10",
+            "address": "0x560c006bfaf8",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "44",
+            "opcode": "0x16",
+            "address": "0x560c006bfb58",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "45",
+            "opcode": "0x3d",
+            "address": "0x560c006bfb88",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "46",
+            "opcode": "0x3d",
+            "address": "0x560c006bfbb0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "47",
+            "opcode": "0x1e",
+            "address": "0x560c006bfc18",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "48",
+            "opcode": "0x1e",
+            "address": "0x560c006bfc80",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "49",
+            "opcode": "0x1e",
+            "address": "0x560c006bfce8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "50",
+            "opcode": "0x1e",
+            "address": "0x560c006bfd50",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "51",
+            "opcode": "0x1e",
+            "address": "0x560c006bfdb8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "52",
+            "opcode": "0x94",
+            "address": "0x560c006bfe78",
+            "score": 0.016666666666666666,
+            "connected": 1,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "53",
+            "opcode": "0x94",
+            "address": "0x560c006bfed0",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "54",
+            "opcode": "0x66",
+            "address": "0x560c006bff30",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "55",
+            "opcode": "0x1e",
+            "address": "0x560c006c1250",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "56",
+            "opcode": "0x1e",
+            "address": "0x560c006c12c8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "57",
+            "opcode": "0x1e",
+            "address": "0x560c006c1340",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "58",
+            "opcode": "0x1e",
+            "address": "0x560c006c13b8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "59",
+            "opcode": "0x1e",
+            "address": "0x560c006c1440",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "60",
+            "opcode": "0x3d",
+            "address": "0x560c006c1488",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "61",
+            "opcode": "0x3d",
+            "address": "0x560c006c1548",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "62",
+            "opcode": "0x3d",
+            "address": "0x560c006c16f0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "63",
+            "opcode": "0x3d",
+            "address": "0x560c006c1718",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "64",
+            "opcode": "0x17",
+            "address": "0x560c006c1c38",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "65",
+            "opcode": "0x18",
+            "address": "0x560c006c21f0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "66",
+            "opcode": "0x5c",
+            "address": "0x560c006c22b0",
+            "score": 0.02666666666666667,
+            "connected": 3,
+            "appended": 1,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "67",
+            "opcode": "0x2a",
+            "address": "0x560c006c2358",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "68",
+            "opcode": "0x1b",
+            "address": "0x560c006c25e8",
+            "score": 0.03,
+            "connected": 4,
+            "appended": 4,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "69",
+            "opcode": "0x175",
+            "address": "0x560c006c2670",
+            "score": 0.02,
+            "connected": 5,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "70",
+            "opcode": "0x1a8",
+            "address": "0x560c006c26b8",
+            "score": 0.013333333333333334,
+            "connected": 2,
+            "appended": 1,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "71",
+            "opcode": "0x130",
+            "address": "0x560c006c2710",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "72",
+            "opcode": "0x2",
+            "address": "0x560c006c2778",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "73",
+            "opcode": "0x4",
+            "address": "0x560c006c27c8",
+            "score": 0.01,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "74",
+            "opcode": "0x5",
+            "address": "0x560c006c2810",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "75",
+            "opcode": "0xa",
+            "address": "0x560c006c2870",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "76",
+            "opcode": "0x23",
+            "address": "0x560c006c28f0",
+            "score": 0.016666666666666666,
+            "connected": 3,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "77",
+            "opcode": "0x1b",
+            "address": "0x560c006c29f8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "78",
+            "opcode": "0x3d",
+            "address": "0x560c006c2bd8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "79",
+            "opcode": "0x3d",
+            "address": "0x560c006c2c00",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "80",
+            "opcode": "0x18",
+            "address": "0x560c006c9cd8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "81",
+            "opcode": "0x118",
+            "address": "0x560c006c9d30",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "82",
+            "opcode": "0x129",
+            "address": "0x560c006c9d98",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "83",
+            "opcode": "0x2",
+            "address": "0x560c006c9e00",
+            "score": 0.01,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "84",
+            "opcode": "0x4",
+            "address": "0x560c006c9e50",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "85",
+            "opcode": "0x5",
+            "address": "0x560c006c9e98",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "86",
+            "opcode": "0xce",
+            "address": "0x560c006c9f70",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "87",
+            "opcode": "0x1e",
+            "address": "0x560c006c9ff0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "88",
+            "opcode": "0x129",
+            "address": "0x560c006ca048",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "89",
+            "opcode": "0x2",
+            "address": "0x560c006ca0b0",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "90",
+            "opcode": "0x4",
+            "address": "0x560c006ca100",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "91",
+            "opcode": "0x5",
+            "address": "0x560c006ca148",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "92",
+            "opcode": "0xce",
+            "address": "0x560c006ca220",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "93",
+            "opcode": "0x17",
+            "address": "0x560c006ca298",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "94",
+            "opcode": "0x128",
+            "address": "0x560c006ca2f0",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "95",
+            "opcode": "0xd",
+            "address": "0x560c006ca3e0",
+            "score": 0.023333333333333334,
+            "connected": 1,
+            "appended": 1,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "96",
+            "opcode": "0xa",
+            "address": "0x560c006ca458",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "97",
+            "opcode": "0x23",
+            "address": "0x560c006ca4d8",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "98",
+            "opcode": "0xce",
+            "address": "0x560c006ca5c0",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "99",
+            "opcode": "0x18",
+            "address": "0x560c006ca640",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "100",
+            "opcode": "0x11d",
+            "address": "0x560c006ca698",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "101",
+            "opcode": "0x195",
+            "address": "0x560c006ca6e8",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "102",
+            "opcode": "0x190",
+            "address": "0x560c006ca730",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "103",
+            "opcode": "0xa",
+            "address": "0x560c006ca790",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "104",
+            "opcode": "0x23",
+            "address": "0x560c006ca810",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "105",
+            "opcode": "0x22",
+            "address": "0x560c006ca898",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "106",
+            "opcode": "0x3d",
+            "address": "0x560c006ca8d8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "107",
+            "opcode": "0x3d",
+            "address": "0x560c006ca900",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "108",
+            "opcode": "0x18",
+            "address": "0x560c006ca968",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "109",
+            "opcode": "0x18",
+            "address": "0x560c006cab08",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "110",
+            "opcode": "0x18",
+            "address": "0x560c006caca8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "111",
+            "opcode": "0x3d",
+            "address": "0x560c006cae08",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "112",
+            "opcode": "0x3d",
+            "address": "0x560c006cae30",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "113",
+            "opcode": "0x28",
+            "address": "0x560c006cbd28",
+            "score": 0.02666666666666667,
+            "connected": 4,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "114",
+            "opcode": "0x2a",
+            "address": "0x560c006cbdb0",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "115",
+            "opcode": "0x2a",
+            "address": "0x560c006cbde8",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "116",
+            "opcode": "0x2a",
+            "address": "0x560c006cbe10",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "117",
+            "opcode": "0x1e",
+            "address": "0x560c006cbe38",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "118",
+            "opcode": "0x0",
+            "address": "0x560c006adbc0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "119",
+            "opcode": "0x32",
+            "address": "0x560c006adc50",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "120",
+            "opcode": "0x1e",
+            "address": "0x560c006ade20",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "121",
+            "opcode": "0x32",
+            "address": "0x560c006adec8",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "122",
+            "opcode": "0x33",
+            "address": "0x560c006adf48",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "123",
+            "opcode": "0x33",
+            "address": "0x560c006ae008",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "124",
+            "opcode": "0x33",
+            "address": "0x560c006ae088",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "125",
+            "opcode": "0x33",
+            "address": "0x560c006ae108",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "126",
+            "opcode": "0x33",
+            "address": "0x560c006ae188",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "127",
+            "opcode": "0x33",
+            "address": "0x560c006ae288",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "128",
+            "opcode": "0x33",
+            "address": "0x560c006ae308",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "129",
+            "opcode": "0x0",
+            "address": "0x560c006ae388",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "130",
+            "opcode": "0x1",
+            "address": "0x560c006ae418",
+            "score": 0.01,
+            "connected": 2,
+            "appended": 1,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "131",
+            "opcode": "0x23",
+            "address": "0x560c006ae4d8",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 1,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "132",
+            "opcode": "0x22",
+            "address": "0x560c006ae5a0",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 1,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "133",
+            "opcode": "0x22",
+            "address": "0x560c006ae668",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 1,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "134",
+            "opcode": "0x22",
+            "address": "0x560c006ae730",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 1,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "135",
+            "opcode": "0x12",
+            "address": "0x560c006ae8b0",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "136",
+            "opcode": "0x3d",
+            "address": "0x560c006ae8e8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "137",
+            "opcode": "0x25",
+            "address": "0x560c006ae958",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "138",
+            "opcode": "0x29",
+            "address": "0x560c006ae9b0",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "139",
+            "opcode": "0x29",
+            "address": "0x560c006aea88",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "140",
+            "opcode": "0x32",
+            "address": "0x560c006aeb78",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "141",
+            "opcode": "0x28",
+            "address": "0x560c006aec38",
+            "score": 0.02666666666666667,
+            "connected": 3,
+            "appended": 0,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "142",
+            "opcode": "0x1c",
+            "address": "0x560c006aee20",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "143",
+            "opcode": "0x81",
+            "address": "0x560c006aeea8",
+            "score": 0.02,
+            "connected": 3,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "144",
+            "opcode": "0xda",
+            "address": "0x560c006aef08",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "145",
+            "opcode": "0x2",
+            "address": "0x560c006aef68",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "146",
+            "opcode": "0x5",
+            "address": "0x560c006aefb8",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "147",
+            "opcode": "0x34",
+            "address": "0x560c006af018",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "148",
+            "opcode": "0x36",
+            "address": "0x560c006af080",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "149",
+            "opcode": "0x35",
+            "address": "0x560c006af0e8",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "150",
+            "opcode": "0xa",
+            "address": "0x560c006af180",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "151",
+            "opcode": "0x4",
+            "address": "0x560c006af3e0",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "152",
+            "opcode": "0x2b5",
+            "address": "0x560c006af470",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "153",
+            "opcode": "0x29",
+            "address": "0x560c006af508",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "154",
+            "opcode": "0x1e",
+            "address": "0x560c006af580",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "155",
+            "opcode": "0x28",
+            "address": "0x560c006af688",
+            "score": 0.02666666666666667,
+            "connected": 6,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "156",
+            "opcode": "0x28b",
+            "address": "0x560c006c9538",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "157",
+            "opcode": "0x28",
+            "address": "0x560c006c9660",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "158",
+            "opcode": "0x1c",
+            "address": "0x560c006c96f8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "159",
+            "opcode": "0x25",
+            "address": "0x560c006c9768",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "160",
+            "opcode": "0x29",
+            "address": "0x560c006c9828",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "161",
+            "opcode": "0x28",
+            "address": "0x560c006c9950",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "162",
+            "opcode": "0x2a0",
+            "address": "0x560c006c9aa0",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "163",
+            "opcode": "0x28",
+            "address": "0x560c006c9be0",
+            "score": 0.023333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "164",
+            "opcode": "0x25",
+            "address": "0x560c006c9c80",
+            "score": 0.01,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "165",
+            "opcode": "0x29",
+            "address": "0x560c006c9d10",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "166",
+            "opcode": "0x28",
+            "address": "0x560c006c9e28",
+            "score": 0.03,
+            "connected": 0,
+            "appended": 0,
+            "removed": 9
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "167",
+            "opcode": "0x1c",
+            "address": "0x560c006c9ec0",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "168",
+            "opcode": "0x25e",
+            "address": "0x560c006c9f48",
+            "score": 0.016666666666666666,
+            "connected": 1,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "169",
+            "opcode": "0x1c",
+            "address": "0x560c006c9fd0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "170",
+            "opcode": "0x10",
+            "address": "0x560c006ca058",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "171",
+            "opcode": "0x16",
+            "address": "0x560c006ca0d0",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "172",
+            "opcode": "0x3d",
+            "address": "0x560c006ca108",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "173",
+            "opcode": "0x3d",
+            "address": "0x560c006ca130",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "174",
+            "opcode": "0x1e",
+            "address": "0x560c006ca198",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "175",
+            "opcode": "0x1e",
+            "address": "0x560c006ca200",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "176",
+            "opcode": "0x1e",
+            "address": "0x560c006cc608",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "177",
+            "opcode": "0x1e",
+            "address": "0x560c006cc680",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "178",
+            "opcode": "0x1e",
+            "address": "0x560c006cc6f8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "179",
+            "opcode": "0x1e",
+            "address": "0x560c006cc770",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "180",
+            "opcode": "0x1e",
+            "address": "0x560c006cc7f8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "181",
+            "opcode": "0x3d",
+            "address": "0x560c006cc840",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "182",
+            "opcode": "0x3d",
+            "address": "0x560c006cc900",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "183",
+            "opcode": "0x5f",
+            "address": "0x560c006ccd58",
+            "score": 0.01,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "184",
+            "opcode": "0xce",
+            "address": "0x560c006cce38",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "185",
+            "opcode": "0x1e",
+            "address": "0x560c006cceb8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "186",
+            "opcode": "0xc8",
+            "address": "0x560c006ccf50",
+            "score": 0.016666666666666666,
+            "connected": 0,
+            "appended": 0,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "187",
+            "opcode": "0x3d",
+            "address": "0x560c006cd5a8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "188",
+            "opcode": "0xce",
+            "address": "0x560c006cd618",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "189",
+            "opcode": "0x5f",
+            "address": "0x560c006cd688",
+            "score": 0.01,
+            "connected": 3,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "190",
+            "opcode": "0x85",
+            "address": "0x560c006cd720",
+            "score": 0.016666666666666666,
+            "connected": 2,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "191",
+            "opcode": "0x28",
+            "address": "0x560c006cd7f8",
+            "score": 0.02666666666666667,
+            "connected": 8,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "192",
+            "opcode": "0x29",
+            "address": "0x560c006cd868",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "193",
+            "opcode": "0x25",
+            "address": "0x560c006cd8e0",
+            "score": 0.013333333333333334,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "194",
+            "opcode": "0x28",
+            "address": "0x560c006cd9b0",
+            "score": 0.023333333333333334,
+            "connected": 7,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "195",
+            "opcode": "0x30",
+            "address": "0x560c006cdae0",
+            "score": 0.03333333333333333,
+            "connected": 10,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "196",
+            "opcode": "0x28",
+            "address": "0x560c006cdbe0",
+            "score": 0.023333333333333334,
+            "connected": 7,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "197",
+            "opcode": "0x29",
+            "address": "0x560c006cdc50",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "198",
+            "opcode": "0x2b5",
+            "address": "0x560c006cdce0",
+            "score": 0.016666666666666666,
+            "connected": 1,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "199",
+            "opcode": "0x5",
+            "address": "0x560c006cdd40",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "200",
+            "opcode": "0x4",
+            "address": "0x560c006cdd88",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "201",
+            "opcode": "0x2",
+            "address": "0x560c006cdde8",
+            "score": 0.01,
+            "connected": 3,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "202",
+            "opcode": "0x81",
+            "address": "0x560c006cde80",
+            "score": 0.016666666666666666,
+            "connected": 3,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "203",
+            "opcode": "0x28",
+            "address": "0x560c006cdf58",
+            "score": 0.023333333333333334,
+            "connected": 7,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "204",
+            "opcode": "0x29",
+            "address": "0x560c006cdfe0",
+            "score": 0.01,
+            "connected": 3,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "205",
+            "opcode": "0x29",
+            "address": "0x560c006ce060",
+            "score": 0.013333333333333334,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "206",
+            "opcode": "0x3d",
+            "address": "0x560c006ce290",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "207",
+            "opcode": "0x3d",
+            "address": "0x560c006ce2b8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "208",
+            "opcode": "0x10",
+            "address": "0x560c006ce4f8",
+            "score": 0.016666666666666666,
+            "connected": 5,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "209",
+            "opcode": "0x10",
+            "address": "0x560c006ce698",
+            "score": 0.016666666666666666,
+            "connected": 4,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "210",
+            "opcode": "0x17",
+            "address": "0x560c006ceb90",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "211",
+            "opcode": "0x18",
+            "address": "0x560c006ced48",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "212",
+            "opcode": "0x17",
+            "address": "0x560c006ceda8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "213",
+            "opcode": "0x59",
+            "address": "0x560c006cee18",
+            "score": 0.02,
+            "connected": 2,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "214",
+            "opcode": "0x59",
+            "address": "0x560c006ceea0",
+            "score": 0.02,
+            "connected": 0,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "215",
+            "opcode": "0x17",
+            "address": "0x560c006cef18",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "216",
+            "opcode": "0x18",
+            "address": "0x560c006cef80",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "217",
+            "opcode": "0x18",
+            "address": "0x560c006cefe8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "218",
+            "opcode": "0x2a",
+            "address": "0x560c006cf078",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "219",
+            "opcode": "0x2a",
+            "address": "0x560c006cf128",
+            "score": 0.0033333333333333335,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "220",
+            "opcode": "0x2a",
+            "address": "0x560c006cf1e0",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "221",
+            "opcode": "0x2a",
+            "address": "0x560c006cf298",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "222",
+            "opcode": "0x2a",
+            "address": "0x560c006cf350",
+            "score": 0.0033333333333333335,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "223",
+            "opcode": "0x1b",
+            "address": "0x560c006cf820",
+            "score": 0.056666666666666664,
+            "connected": 8,
+            "appended": 8,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "224",
+            "opcode": "0x175",
+            "address": "0x560c006cf8a8",
+            "score": 0.02,
+            "connected": 5,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "225",
+            "opcode": "0x1a8",
+            "address": "0x560c006cf8f0",
+            "score": 0.04,
+            "connected": 6,
+            "appended": 5,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "226",
+            "opcode": "0x130",
+            "address": "0x560c006cf948",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "227",
+            "opcode": "0x2",
+            "address": "0x560c006cf9b0",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "228",
+            "opcode": "0x4",
+            "address": "0x560c006cfa00",
+            "score": 0.01,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "229",
+            "opcode": "0x5",
+            "address": "0x560c006cfa48",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "230",
+            "opcode": "0xa",
+            "address": "0x560c006cfaa8",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "231",
+            "opcode": "0x23",
+            "address": "0x560c006cfb28",
+            "score": 0.016666666666666666,
+            "connected": 3,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "232",
+            "opcode": "0x1b",
+            "address": "0x560c006cfc30",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "233",
+            "opcode": "0x175",
+            "address": "0x560c006cfe70",
+            "score": 0.02,
+            "connected": 5,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "234",
+            "opcode": "0x1a8",
+            "address": "0x560c006cfeb8",
+            "score": 0.04,
+            "connected": 6,
+            "appended": 5,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "235",
+            "opcode": "0x130",
+            "address": "0x560c006cff10",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "236",
+            "opcode": "0x2",
+            "address": "0x560c006cff78",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "237",
+            "opcode": "0x4",
+            "address": "0x560c006cffc8",
+            "score": 0.01,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "238",
+            "opcode": "0x5",
+            "address": "0x560c006d0010",
+            "score": 0.006666666666666667,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "239",
+            "opcode": "0xa",
+            "address": "0x560c006d0070",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "240",
+            "opcode": "0x23",
+            "address": "0x560c006d00f0",
+            "score": 0.016666666666666666,
+            "connected": 3,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "241",
+            "opcode": "0x3d",
+            "address": "0x560c006d0370",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "242",
+            "opcode": "0x3d",
+            "address": "0x560c006d0398",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "243",
+            "opcode": "0x18",
+            "address": "0x560c006d0400",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "244",
+            "opcode": "0x118",
+            "address": "0x560c006d0458",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "245",
+            "opcode": "0x129",
+            "address": "0x560c006d04c0",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "246",
+            "opcode": "0xd",
+            "address": "0x560c006d0558",
+            "score": 0.016666666666666666,
+            "connected": 4,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "247",
+            "opcode": "0x18",
+            "address": "0x560c006d0de0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "248",
+            "opcode": "0x11d",
+            "address": "0x560c006d0e38",
+            "score": 0.013333333333333334,
+            "connected": 2,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "249",
+            "opcode": "0x195",
+            "address": "0x560c006d0e88",
+            "score": 0.01,
+            "connected": 1,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "250",
+            "opcode": "0x10d",
+            "address": "0x560c006d0f00",
+            "score": 0.016666666666666666,
+            "connected": 4,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "251",
+            "opcode": "0x37",
+            "address": "0x560c006d0f70",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "252",
+            "opcode": "0xc",
+            "address": "0x560c006d1008",
+            "score": 0.02,
+            "connected": 5,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "253",
+            "opcode": "0x37",
+            "address": "0x560c006d1080",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "254",
+            "opcode": "0x10d",
+            "address": "0x560c006d1100",
+            "score": 0.016666666666666666,
+            "connected": 4,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "255",
+            "opcode": "0x37",
+            "address": "0x560c006d1170",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "256",
+            "opcode": "0xc",
+            "address": "0x560c006d1208",
+            "score": 0.02,
+            "connected": 5,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "257",
+            "opcode": "0x37",
+            "address": "0x560c006d1280",
+            "score": 0.013333333333333334,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "258",
+            "opcode": "0x3d",
+            "address": "0x560c006d12b8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "259",
+            "opcode": "0x3d",
+            "address": "0x560c006d12e0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "260",
+            "opcode": "0x18",
+            "address": "0x560c006d1348",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "261",
+            "opcode": "0x3d",
+            "address": "0x560c006d15e0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "262",
+            "opcode": "0x3d",
+            "address": "0x560c006d1608",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "263",
+            "opcode": "0x1e",
+            "address": "0x560c006d27c8",
+            "score": 0.006666666666666667,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "264",
+            "opcode": "0x1b",
+            "address": "0x560c006d27f0",
+            "score": 0.006666666666666667,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    }
+]

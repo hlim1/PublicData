@@ -1,0 +1,1361 @@
+[
+    {
+        "data": {
+            "id": "e55",
+            "source": "63",
+            "target": "0",
+            "opt": 0.5
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e1",
+            "source": "2",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e2",
+            "source": "4",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e3",
+            "source": "7",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e4",
+            "source": "7",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e5",
+            "source": "10",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e6",
+            "source": "14",
+            "target": "7",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e7",
+            "source": "14",
+            "target": "8",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e8",
+            "source": "14",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e9",
+            "source": "14",
+            "target": "4",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e10",
+            "source": "14",
+            "target": "5",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e11",
+            "source": "14",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e12",
+            "source": "19",
+            "target": "18",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e13",
+            "source": "21",
+            "target": "18",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e14",
+            "source": "24",
+            "target": "23",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e15",
+            "source": "26",
+            "target": "23",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e17",
+            "source": "28",
+            "target": "25",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e17",
+            "source": "33",
+            "target": "32",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e18",
+            "source": "37",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e19",
+            "source": "37",
+            "target": "1",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e20",
+            "source": "37",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e21",
+            "source": "37",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "55",
+            "target": "37",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e23",
+            "source": "44",
+            "target": "27",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e24",
+            "source": "51",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e25",
+            "source": "54",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e26",
+            "source": "54",
+            "target": "2",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "55",
+            "target": "65",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "55",
+            "target": "38",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e29",
+            "source": "55",
+            "target": "38",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e30",
+            "source": "55",
+            "target": "37",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "55",
+            "target": "46",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "55",
+            "target": "41",
+            "opt": 1
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e33",
+            "source": "56",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e34",
+            "source": "56",
+            "target": "55",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e35",
+            "source": "56",
+            "target": "52",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e36",
+            "source": "56",
+            "target": "4",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e37",
+            "source": "56",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e38",
+            "source": "57",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e39",
+            "source": "57",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e40",
+            "source": "58",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e41",
+            "source": "58",
+            "target": "56",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e42",
+            "source": "58",
+            "target": "57",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e43",
+            "source": "59",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e44",
+            "source": "59",
+            "target": "58",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e45",
+            "source": "59",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e46",
+            "source": "60",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e47",
+            "source": "60",
+            "target": "59",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e48",
+            "source": "61",
+            "target": "59",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e49",
+            "source": "62",
+            "target": "0",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e50",
+            "source": "62",
+            "target": "60",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e51",
+            "source": "62",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e52",
+            "source": "63",
+            "target": "56",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e53",
+            "source": "63",
+            "target": "3",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "e54",
+            "source": "63",
+            "target": "62",
+            "opt": 2
+        },
+        "group": "edges"
+    },
+    {
+        "data": {
+            "id": "0",
+            "opcode": "0x0",
+            "address": "0x5643d5664708",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "1",
+            "opcode": "0x32",
+            "address": "0x5643d5664798",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "2",
+            "opcode": "0x32",
+            "address": "0x5643d56647f0",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "3",
+            "opcode": "0x1e",
+            "address": "0x5643d56649d0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "4",
+            "opcode": "0x32",
+            "address": "0x5643d5664a58",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "5",
+            "opcode": "0x3d",
+            "address": "0x5643d5664ac8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "6",
+            "opcode": "0x25",
+            "address": "0x5643d5664b38",
+            "score": 0.05454545454545454,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "7",
+            "opcode": "0x29",
+            "address": "0x5643d5664ba8",
+            "score": 0.03636363636363636,
+            "connected": 2,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "8",
+            "opcode": "0x29",
+            "address": "0x5643d5664c58",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "9",
+            "opcode": "0x1e",
+            "address": "0x5643d5664d48",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "10",
+            "opcode": "0x32",
+            "address": "0x5643d5664e20",
+            "score": 0.03636363636363636,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "11",
+            "opcode": "0x28",
+            "address": "0x5643d5664ee0",
+            "score": 0.12727272727272726,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "12",
+            "opcode": "0x1e",
+            "address": "0x5643d5664f78",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "13",
+            "opcode": "0x2c9",
+            "address": "0x5643d5665000",
+            "score": 0.07272727272727272,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "14",
+            "opcode": "0x28",
+            "address": "0x5643d5665128",
+            "score": 0.12727272727272726,
+            "connected": 6,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "15",
+            "opcode": "0x29c",
+            "address": "0x5643d5665238",
+            "score": 0.07272727272727272,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "16",
+            "opcode": "0x28",
+            "address": "0x5643d5665360",
+            "score": 0.12727272727272726,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "17",
+            "opcode": "0x25",
+            "address": "0x5643d5665500",
+            "score": 0.05454545454545454,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "18",
+            "opcode": "0x29",
+            "address": "0x5643d5665590",
+            "score": 0.01818181818181818,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "19",
+            "opcode": "0x28",
+            "address": "0x5643d56656a8",
+            "score": 0.12727272727272726,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "20",
+            "opcode": "0x29b",
+            "address": "0x5643d56657d0",
+            "score": 0.09090909090909091,
+            "connected": 0,
+            "appended": 0,
+            "removed": 5
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "21",
+            "opcode": "0x28",
+            "address": "0x5643d5665900",
+            "score": 0.12727272727272726,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "22",
+            "opcode": "0xe7",
+            "address": "0x5643d5665970",
+            "score": 0.01818181818181818,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "23",
+            "opcode": "0x2",
+            "address": "0x5643d56659d0",
+            "score": 0.03636363636363636,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "24",
+            "opcode": "0x5",
+            "address": "0x5643d5665a20",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "25",
+            "opcode": "0xa",
+            "address": "0x5643d5665ab0",
+            "score": 0.01818181818181818,
+            "connected": 0,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "26",
+            "opcode": "0x4",
+            "address": "0x5643d5665b10",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "27",
+            "opcode": "0x1c",
+            "address": "0x5643d5665cd0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "28",
+            "opcode": "0xa",
+            "address": "0x5643d5665d58",
+            "score": 0.05454545454545454,
+            "connected": 1,
+            "appended": 1,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "29",
+            "opcode": "0x1c",
+            "address": "0x5643d5665de0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "30",
+            "opcode": "0x22",
+            "address": "0x5643d5665e98",
+            "score": 0.07272727272727272,
+            "connected": 0,
+            "appended": 0,
+            "removed": 4
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "31",
+            "opcode": "0x25",
+            "address": "0x5643d5665f38",
+            "score": 0.05454545454545454,
+            "connected": 0,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "32",
+            "opcode": "0x29",
+            "address": "0x5643d5665fe0",
+            "score": 0.03636363636363636,
+            "connected": 0,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "33",
+            "opcode": "0x28",
+            "address": "0x5643d566f378",
+            "score": 0.12727272727272726,
+            "connected": 1,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "34",
+            "opcode": "0x92",
+            "address": "0x5643d566f430",
+            "score": 0.10909090909090909,
+            "connected": 0,
+            "appended": 0,
+            "removed": 6
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "35",
+            "opcode": "0x2ac",
+            "address": "0x5643d566f588",
+            "score": 0.14545454545454545,
+            "connected": 0,
+            "appended": 0,
+            "removed": 8
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "36",
+            "opcode": "0x28",
+            "address": "0x5643d566f6d0",
+            "score": 0.12727272727272726,
+            "connected": 0,
+            "appended": 0,
+            "removed": 7
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "37",
+            "opcode": "0x10",
+            "address": "0x5643d566f788",
+            "score": 0.07272727272727272,
+            "connected": 4,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "38",
+            "opcode": "0x16",
+            "address": "0x5643d566f7e8",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "39",
+            "opcode": "0x3d",
+            "address": "0x5643d566f818",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "40",
+            "opcode": "0x3d",
+            "address": "0x5643d566f840",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "41",
+            "opcode": "0x1e",
+            "address": "0x5643d566f8a8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "42",
+            "opcode": "0x1e",
+            "address": "0x5643d566f910",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "43",
+            "opcode": "0x1e",
+            "address": "0x5643d566f978",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "44",
+            "opcode": "0x72",
+            "address": "0x5643d566f9d0",
+            "score": 0.07272727272727272,
+            "connected": 1,
+            "appended": 0,
+            "removed": 3
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "45",
+            "opcode": "0x1e",
+            "address": "0x5643d566fc50",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "46",
+            "opcode": "0x1e",
+            "address": "0x5643d566fff8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "47",
+            "opcode": "0x3d",
+            "address": "0x5643d5671900",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "48",
+            "opcode": "0x3d",
+            "address": "0x5643d5671d00",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "49",
+            "opcode": "0x3d",
+            "address": "0x5643d56721d0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "50",
+            "opcode": "0x3d",
+            "address": "0x5643d5672520",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "51",
+            "opcode": "0x17",
+            "address": "0x5643d5672f70",
+            "score": 0.01818181818181818,
+            "connected": 1,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "52",
+            "opcode": "0x18",
+            "address": "0x5643d5673128",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "53",
+            "opcode": "0x2a",
+            "address": "0x5643d56731b8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "54",
+            "opcode": "0x50",
+            "address": "0x5643d56732d0",
+            "score": 0.05454545454545454,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "55",
+            "opcode": "0x1b",
+            "address": "0x5643d56af7f8",
+            "score": 0.23636363636363636,
+            "connected": 6,
+            "appended": 6,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "56",
+            "opcode": "0x183",
+            "address": "0x5643d56af880",
+            "score": 0.10909090909090909,
+            "connected": 5,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "57",
+            "opcode": "0x1b9",
+            "address": "0x5643d56af8c8",
+            "score": 0.07272727272727272,
+            "connected": 2,
+            "appended": 1,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "58",
+            "opcode": "0x13e",
+            "address": "0x5643d56af920",
+            "score": 0.07272727272727272,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "59",
+            "opcode": "0x2",
+            "address": "0x5643d56af988",
+            "score": 0.07272727272727272,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "60",
+            "opcode": "0x4",
+            "address": "0x5643d56af9d8",
+            "score": 0.05454545454545454,
+            "connected": 2,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "61",
+            "opcode": "0x5",
+            "address": "0x5643d56afa20",
+            "score": 0.03636363636363636,
+            "connected": 1,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "62",
+            "opcode": "0xa",
+            "address": "0x5643d56afa80",
+            "score": 0.07272727272727272,
+            "connected": 3,
+            "appended": 0,
+            "removed": 1
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "63",
+            "opcode": "0x23",
+            "address": "0x5643d56afb00",
+            "score": 0.09090909090909091,
+            "connected": 3,
+            "appended": 0,
+            "removed": 2
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "64",
+            "opcode": "0x1b",
+            "address": "0x5643d56afc08",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "65",
+            "opcode": "0x1e",
+            "address": "0x5643d56b0070",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "66",
+            "opcode": "0x3d",
+            "address": "0x5643d56b0250",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "67",
+            "opcode": "0x3d",
+            "address": "0x5643d56b0278",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "68",
+            "opcode": "0x3d",
+            "address": "0x5643d56b02a0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "69",
+            "opcode": "0x3d",
+            "address": "0x5643d56b02c8",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "70",
+            "opcode": "0x3d",
+            "address": "0x5643d56b02f0",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    },
+    {
+        "data": {
+            "id": "71",
+            "opcode": "0x3d",
+            "address": "0x5643d56b0318",
+            "score": 0.0,
+            "connected": 0,
+            "appended": 0,
+            "removed": 0
+        },
+        "group": "nodes"
+    }
+]
