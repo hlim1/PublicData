@@ -124,7 +124,7 @@
     }
   },
   {
-    "selector": "node.semitransp",
+    "selector": "node.hide",
     "style": { "opacity": "0" }
   },
   {
@@ -132,7 +132,7 @@
     "style": { "mid-target-arrow-color": "#FFF" }
   },
   {
-    "selector": "edge.semitransp",
+    "selector": "edge.hide",
     "style": { "opacity": "0" }
   }
 ]
