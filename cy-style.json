@@ -122,5 +122,17 @@
     "style": {
       "line-color": "#8B0000"
     }
+  },
+  {
+    "selector": "node.semitransp",
+    "style": { "opacity": "0.5" }
+  },
+  {
+    "selector": "edge.highlight",
+    "style": { "mid-target-arrow-color": "#FFF" }
+  },
+  {
+    "selector": "edge.semitransp",
+    "style": { "opacity": "0.2" }
   }
 ]
