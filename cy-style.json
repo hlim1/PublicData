@@ -54,18 +54,6 @@
     }
   },
   {
-    "selector": "node.outgoers",
-    "style": {
-      "background-color": "#167f45"
-    }
-  },
-    {
-    "selector": "node.incomers",
-    "style": {
-      "background-color": "#210898"
-    }
-  },
-  {
     "selector": "edge",
     "style": {
       "curve-style": "haystack",
