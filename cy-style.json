@@ -54,16 +54,6 @@
     }
   },
   {
-    "selector": "node:outgoing",
-    "style": {
-      "border-width": "6px",
-      "border-color": "#AAD8FF",
-      "border-opacity": "0.5",
-      "background-color": "#167f45",
-      "text-outline-color": "#167f45"
-    }
-  },
-  {
     "selector": "edge",
     "style": {
       "curve-style": "haystack",
