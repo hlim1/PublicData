@@ -134,5 +134,17 @@
   {
     "selector": "edge.hide",
     "style": { "opacity": "0" }
+  },
+  {
+    "selector": "node.outgoers",
+    "style": {
+      "background-color": "#167f45"
+    }
+  },
+  {
+    "selector": "node.incomers",
+    "style": {
+      "background-color": "#210898"
+    }
   }
 ]
